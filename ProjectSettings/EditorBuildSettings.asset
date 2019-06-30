@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MapaPiso2.unity
     guid: 884f11194ac734141b873420ec7fe260
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Piso3.unity
     guid: 3e240c9d58fd89443aad0b8b02e3f4df
   - enabled: 1
