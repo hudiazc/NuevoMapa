@@ -3142,6 +3142,11 @@ PrefabInstance:
       propertyPath: salas.Array.data[22]._destination
       value: 
       objectReference: {fileID: 1905565394}
+    - target: {fileID: 8872940714175986570, guid: fc6a8ececf931af4c8d8be68ac90d6a4,
+        type: 3}
+      propertyPath: mainCamera
+      value: 
+      objectReference: {fileID: 134669546}
     m_RemovedComponents:
     - {fileID: 8872940714175986569, guid: fc6a8ececf931af4c8d8be68ac90d6a4, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: fc6a8ececf931af4c8d8be68ac90d6a4, type: 3}
@@ -4831,6 +4836,26 @@ PrefabInstance:
       propertyPath: pisos.Array.data[6].scene
       value: Piso7
       objectReference: {fileID: 0}
+    - target: {fileID: 5606133477578766309, guid: 542df322c9748464389d8ae0d097ea37,
+        type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5606133477578766309, guid: 542df322c9748464389d8ae0d097ea37,
+        type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: DropDownValueChanged
+      objectReference: {fileID: 0}
+    - target: {fileID: 5606133477578766309, guid: 542df322c9748464389d8ae0d097ea37,
+        type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 5606133477578766309, guid: 542df322c9748464389d8ae0d097ea37,
+        type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1240837742}
     - target: {fileID: 7043872385904145667, guid: 542df322c9748464389d8ae0d097ea37,
         type: 3}
       propertyPath: m_AnchorMin.x
