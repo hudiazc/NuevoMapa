@@ -26,7 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/HComponents/Piso6.unity
     guid: dfb0dc502bbdcc542b6d04e12f4b7f73
-  - enabled: 1
+  - enabled: 0
     path: Assets/HComponents/Piso7.unity
     guid: 176fa14872e3c0849b55302d36a6019c
   - enabled: 1
