@@ -2,7 +2,7 @@
 
 
 
--	Alumno: Humberto Díaz
+-	Autor: Humberto Díaz
 -	Profesor Guia: Sven Von Brand
 
 # Introducción
