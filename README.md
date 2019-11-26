@@ -30,12 +30,13 @@ La arquitectura actal del proyecto es la siguiente:
 
 # Releases de descarga
 
-El release se encuentra en la siguiente ruta [Github releases page](https://github.com/hudiazc/NuevoMapa/releases/tag/Beta2). 
+El release se encuentra en la siguiente ruta [Github releases page](https://github.com/hudiazc/NuevoMapa/releases/tag/Beta4). 
+![Screenshot](https://github.com/hudiazc/NuevoMapa/blob/master/Imagenes/release.png "Screenshot")
 
 # Pasos de instalación
 
--	Descargar la APK según paso indicado.
--	Traspasar aplicación al telefono que se desea instalar.
+-	Descargar la APK según paso anterior.
+-	Traspasar aplicación al telefono con Android que se desea instalar.
 -	Dentro del telefono, se debe habilitar la opcion para instalar aplicaciónes desconocidas.
 -	Ejecutar y probar.
 
@@ -44,16 +45,16 @@ El release se encuentra en la siguiente ruta [Github releases page](https://gith
 -	Una vez iniciada la aplicación, se indicaran las opciones de 
         1- Iniciar el Mapa
         2- Salir de la aplicación
-        ![Screenshot](https://github.com/hudiazc/NuevoMapa/blob/master/Imagenes/Inicio.PNG "Screenshot")
+        ![Screenshot](https://github.com/hudiazc/NuevoMapa/blob/master/Imagenes/Mapa1.png "Screenshot")
 
--	Por defecto la aplicación caera en el primer piso, por lo que tenemos la opcion de desplegar los pisos:
-        ![Screenshot](https://github.com/hudiazc/NuevoMapa/blob/master/Imagenes/Despliegue_Pisos.png "Screenshot")
+-	Para buscar el piso deseado, podemos escribir el numero de la sala deseada o desplegar la lista en el dropdown:
+        ![Screenshot](https://github.com/hudiazc/NuevoMapa/blob/master/Imagenes/mapa2.png "Screenshot")
         
--	Tambien podemos realizar el despliegue de las salas:
-        ![Screenshot](https://github.com/hudiazc/NuevoMapa/blob/master/Imagenes/Despliegue_Salas.png "Screenshot")
+-	Luego podemos seleccionar la sala con el boton "mostrar camino"  simplemente apretar el numero de la sala en el dropdown:
+        ![Screenshot](https://github.com/hudiazc/NuevoMapa/blob/master/Imagenes/boton1.png "Screenshot")
         
- -	Finalmente podemos seleccionar el piso y la sala a la que queremos ir:
-        "Pendiente GIF de demostración"
+ -	Finalmente se mostrata el camino a la sala monstrando una traza del movimiento:
+        ![Screenshot](https://github.com/hudiazc/NuevoMapa/blob/master/Imagenes/mov2.png "Screenshot")
         
   
         
