@@ -14,9 +14,7 @@ Disminuir la pérdida de tiempo de todos los involucrados que transitan por la u
 
 # Metodologia
 
-Para este proyecto, se utilizo la metodologia Scrum:
-
-![Screenshot](https://github.com/hudiazc/NuevoMapa/blob/master/Imagenes/Metodologia.png "Screenshot")
+Para este proyecto, se utilizo la metodologia Scrum
 
 # Arquitectura
 
