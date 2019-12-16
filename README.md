@@ -3,7 +3,7 @@
 
 
 -	Autor: Humberto Díaz
--	Profesor Guia: Sven Von Brand
+-	Profesor Guia: Sven von Brand
 
 # Introducción
 En la actualidad, Universidad Andres Bello se encuentra con un problema logístico dentro de sus instalaciones en las cuales sus alumnos, visitas y profesores, se ven con dificultados para encontrar de manera eficiente.
