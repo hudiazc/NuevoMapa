@@ -1205,7 +1205,7 @@ Transform:
   m_LocalScale: {x: 300, y: 365.00034, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1 &572316268
 GameObject:
@@ -4098,6 +4098,7 @@ Transform:
   - {fileID: 1432858393}
   - {fileID: 935415989}
   - {fileID: 1788556347}
+  - {fileID: 1611353211}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4320,7 +4321,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1611353211}
   m_Layer: 0
-  m_Name: Salas
+  m_Name: Salas2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4333,8 +4334,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1611353210}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.3252935, y: 22.617409, z: 39.631622}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -10.059699, y: 14.949226, z: 62.57483}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 235877808}
@@ -4368,8 +4369,8 @@ Transform:
   - {fileID: 1889287842}
   - {fileID: 1563173494}
   - {fileID: 1998548434}
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 1436864909}
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1641303469
 PrefabInstance:
