@@ -17,7 +17,7 @@ Disminuir la pérdida de tiempo de todos los involucrados que transitan por la u
 
 La arquitectura actal del proyecto es la siguiente:
 
-![Screenshot](https://github.com/hudiazc/NuevoMapa/blob/master/Imagenes/Diagrama%20arquitectura.png"Screenshot")
+![Screenshot](https://github.com/hudiazc/NuevoMapa/blob/master/Imagenes/Diagrama%20arquitectura.png "Screenshot")
 
 
 
