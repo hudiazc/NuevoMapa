@@ -28,7 +28,7 @@ El release se encuentra en la siguiente ruta [Github releases page](https://gith
 
 # Pasos de instalación
 
--	Descargar la APK según paso anterior.
+-	Descargar la APK MapaUNAB3D.apk según paso anterior.
 -	Traspasar aplicación al telefono con Android que se desea instalar.
 -	Dentro del telefono, se debe habilitar la opcion para instalar aplicaciónes desconocidas.
 -	Ejecutar y probar.
